@@ -46,6 +46,8 @@ Private:* Once downloaded, everything runs locally on your own GPU. Your data an
 
 Note: The first time you launch the software, it will automatically download the model files from HuggingFace.
 
+Video Tutorials:https://www.youtube.com/watch?v=KjEe69y_75Q
+
 #### 💻 System Requirements:
 
 OS:* Windows 10 / Windows 11 (64-bit)
